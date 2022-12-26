@@ -125,7 +125,6 @@ html {
     }
 
     .title {
-        color: blueviolet;
         font-size: 1.8rem;
     }
 
@@ -159,7 +158,6 @@ html {
     }
 
     .title {
-        color: red;
         font-size: 2rem;
     }
 
@@ -190,7 +188,6 @@ html {
     }
 
     .title {
-        color: blue;
         font-size: 2.2rem;
     }
 
@@ -207,9 +204,6 @@ html {
 
 /* // Large devices (desktops, 992px and up) */
 @media (min-width: 992px) { 
-    .title {
-        color: green
-    }
 
     #pro-pic {
         width: 50%;
